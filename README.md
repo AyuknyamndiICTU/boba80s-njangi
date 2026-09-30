@@ -1,4 +1,4 @@
-# BOBA 80s Njangi
+# BOBA 80s 
 
 Web app for the **Cameroon Protestant College Bali, BOBA 80S** Njangi contribution register.
 It works on phones, tablets and computers.
